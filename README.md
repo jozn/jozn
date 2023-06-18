@@ -13,3 +13,5 @@ Go, Java, Dart, and Rust.
 - [DB Walker](https://github.com/jozn/db-walker): An ORM and query builder for MySQL and CockroachDB
 
 Most of this projects was kept private for a long time, and only in late 2022 was made public.
+
+Also had made some contibutations to [Decred](https://github.com/decred/dcrd/commits?author=jozn)
